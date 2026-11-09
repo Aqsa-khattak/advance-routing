@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+h1{
+  font-size: 60px;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+  white-space: nowrap;
+}
+h2{
+  font-size: 60px;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  text-decoration: none;
+  color: rgb(107, 6, 6);
+  font-weight: 600;
+}
